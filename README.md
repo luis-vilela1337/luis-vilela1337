@@ -1,7 +1,7 @@
 ### Hi there, I'm Luis Fillype
 
-- 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Typescript/nodeJs
+- 🔭 I’m currently working on back-end 
+- 🌱 I’m currently learning nodeJs, reactJs and React Native
 - 📫 How to reach me: l.fillype@gmail.com
 
 <div align="center">
