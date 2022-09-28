@@ -5,9 +5,9 @@
 - 📫 How to reach me: l.fillype@gmail.com
 
 <div align="center">
-  <a href="https://github.com/LuisFillype">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LuisFillype&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFillype&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/luis-fillype1337">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=luis-fillype1337&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-fillype1337&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
